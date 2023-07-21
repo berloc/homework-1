@@ -1,0 +1,22 @@
+{
+  "hu": {
+    "navbar": {
+      "title": "Hazi feladat",
+      "currentLocale": "Valasztott nyelv"
+    },
+    "login": {
+      "username": "Felhasznalonev",
+      "password": "Jelszo"
+    }
+  },
+  "en": {
+    "navbar": {
+      "title": "Homework",
+      "currentLocale": "Current language"
+    },
+    "login": {
+      "username": "Username",
+      "password": "Password"
+    }
+  }
+}
